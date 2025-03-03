@@ -4,7 +4,7 @@ num = random.randint(1, 10)
 guess = None
 
 def main():
-    """This is a dummmy function"""
+    """This is a dummy function"""
     pass
 
 while guess != num:
